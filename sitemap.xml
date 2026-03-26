@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home -->
+  <url>
+    <loc>https://7figurestom.org/en</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en"/>
+  </url>
+
+  <!-- Services -->
+  <url>
+    <loc>https://7figurestom.org/en/services</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en/services"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de/services"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr/services"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es/services"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it/services"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl/services"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt/services"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar/services"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en/services"/>
+  </url>
+
+  <!-- Case Studies -->
+  <url>
+    <loc>https://7figurestom.org/en/case-studies</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar/case-studies"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en/case-studies"/>
+  </url>
+
+  <!-- Resources -->
+  <url>
+    <loc>https://7figurestom.org/en/resources</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en/resources"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de/resources"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr/resources"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es/resources"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it/resources"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl/resources"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt/resources"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar/resources"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en/resources"/>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://7figurestom.org/en/about</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en/about"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de/about"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es/about"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it/about"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl/about"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en/about"/>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://7figurestom.org/en/contact</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de/contact"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr/contact"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es/contact"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it/contact"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl/contact"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar/contact"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en/contact"/>
+  </url>
+
+  <!-- Share Project -->
+  <url>
+    <loc>https://7figurestom.org/en/share-project</loc>
+    <lastmod>2025-07-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://7figurestom.org/en/share-project"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://7figurestom.org/de/share-project"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://7figurestom.org/fr/share-project"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://7figurestom.org/es/share-project"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://7figurestom.org/it/share-project"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://7figurestom.org/nl/share-project"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://7figurestom.org/pt/share-project"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://7figurestom.org/ar/share-project"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://7figurestom.org/en/share-project"/>
+  </url>
+
+</urlset>

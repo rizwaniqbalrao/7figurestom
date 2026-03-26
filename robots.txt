@@ -1,0 +1,41 @@
+# robots.txt for 7Figurestom — Shopify E-commerce Growth Agency
+
+User-agent: *
+Allow: /en/
+Allow: /de/
+Allow: /fr/
+Allow: /es/
+Allow: /it/
+Allow: /nl/
+Allow: /pt/
+Allow: /ar/
+Allow: /en/services
+Allow: /en/case-studies
+Allow: /en/resources
+Allow: /en/about
+Allow: /en/contact
+Allow: /en/share-project
+Disallow: /en/thank-you
+Disallow: /*/thank-you
+
+# Sitemap
+Sitemap: https://7figurestom.org/sitemap.xml
+
+# Allow major search engine crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
